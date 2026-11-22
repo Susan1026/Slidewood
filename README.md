@@ -1,10 +1,8 @@
 # Slidewood · 木块滑块解锁
 
+> 🎮 **在线试玩**：[https://slidewood.netlify.app](https://slidewood.netlify.app)
+
 一个纯单文件的木质滑块解谜游戏（Unblock Puzzle）。滑动木块，把红木块从右侧出口推出。
-
-## 在线试玩
-
-点击试玩：[https://slidewood.netlify.app](https://slidewood.netlify.app)
 
 ## 特性
 
