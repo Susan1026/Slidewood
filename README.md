@@ -4,7 +4,7 @@
 
 ## 在线试玩
 
-部署后访问 GitHub Pages 地址即可游玩（仓库 Settings → Pages → 选择 main 分支）。
+点击试玩：[https://slidewood.netlify.app](https://slidewood.netlify.app)
 
 ## 特性
 
